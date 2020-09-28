@@ -1,15 +1,10 @@
 ## Welcome to Kulsoom Trading 
 
-Direct exporting is a business activity occurring between an exporter
-and an importer without the intervention of a third party. This option is
-a good one for existing businesses that are looking for ways to expand
-their operations.
+### Company Overview
 
-Indirect exporting is simpler than direct exporting. It involves exporting
-goods through various intermediaries in the producer’s country. Indirect
-exporting doesn’t require any expertise or major cash expenditures, and
-it’s the type of exporting used most often by many companies that are
-new to exporting.
+Kulsoom's Trading was established in 2016 as an international trading company. The company was founded on the principle that consultants must measure their success by their clients’ success in the world marketplace. During the past three decades the company has evolved into a management consulting and marketing solutions company that is passionate about helping entrepreneurs and small businesses go global. Part of our mission is to bring this knowledge to our clients and constituents, and we publish it for the benefit of business leaders worldwide.
+
+
 
 
 
