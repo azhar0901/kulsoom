@@ -13,12 +13,8 @@ new to exporting.
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Coronavirus Impact on Trade
+The COVID-19 outbreak is disrupting trade around the world. How has your company been impacted by the COVID-19 outbreak? Let AAEI know so we can provide feedback to CBP and other federal agencies! 
 
 
 # Address 
@@ -27,8 +23,13 @@ Phone : +92 312 9570754
 khalilkulsoom@gmail.com
 
 
-## Header 2
-### Our Import and Export Terms Conditions 
+## Kulsoom's Trading Mission
+
+Kulsoom's Trading is a leading management consulting and marketing solutions company dedicated to helping entrepreneurs and small businesses go global. Our mission is simple: to make going global easy by giving you the tools, resources, and knowledge you need.
+In today’s fiercely competitive economy, it’s the entrepreneurs and small business owners of the world (read ChangeThis.com) who are turning to global trade, discovering accelerated growth and big profits, and reshaping the new world economy. You can too—and in the process, you can discover there are no boundaries to growing your business.
+
+
+### Our Terms and Conditions 
 
 Our import/export glossary of terms –  international trade terms
 
