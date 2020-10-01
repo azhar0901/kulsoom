@@ -4,7 +4,7 @@
 
 Kulsoom's Trading was established in 2016 as an international trading company. The company was founded on the principle that consultants must measure their success by their clients’ success in the world marketplace. During the past three decades the company has evolved into a management consulting and marketing solutions company that is passionate about helping entrepreneurs and small businesses go global. Part of our mission is to bring this knowledge to our clients and constituents, and we publish it for the benefit of business leaders worldwide.
 
-! [image of trading](https://i.pinimg.com/originals/40/12/17/4012171c8959c261bc4be14a2605007d.jpg) 
+! [image of trading] (https://i.pinimg.com/originals/40/12/17/4012171c8959c261bc4be14a2605007d.jpg) 
 
 
 
